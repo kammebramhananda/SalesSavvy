@@ -40,7 +40,7 @@ Docker (Optional)
 📦 Backend Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/Sainath8688/Sales_Savvy_E-Commerce_Website
+git clone https://github.com/kammebramhananda/Sales_Savvy_E-Commerce_Website
 cd SalesSavvy/SS-BE
 
 2️⃣ Set Up MySQL Database
@@ -49,7 +49,7 @@ Configure database credentials in application.properties:
 
 spring.datasource.url=jdbc:mysql://localhost:3307/sales_savvy
 spring.datasource.username=root
-spring.datasource.password=1234
+spring.datasource.password=Bramha@1432
 spring.jpa.hibernate.ddl-auto=update
 
 3️⃣ Run the Backend
@@ -91,7 +91,7 @@ docker-compose down
 📜 Git Workflow
 🚀 First-Time Setup
 git init
-git remote add origin https://github.com/Sainath8688/Sales_Savvy_E-Commerce_Website
+git remote add origin https://github.com/kammebramhananda/Sales_Savvy_E-Commerce_Website
 git branch -M main
 git pull origin main
 🌟 Push New Changes
@@ -109,9 +109,9 @@ Create a new branch (git checkout -b feature-branch)
 Commit changes (git commit -m "Added new feature")
 Push to your branch (git push origin feature-branch)
 Open a Pull Request
-📞 Contact : 8688702083
-For any issues or queries, feel free to reach out: 📧 Email: [nsai26261@gmail.com]
-🌐 GitHub: [https://github.com/Sainath8688]
+📞 Contact : 7995169089
+For any issues or queries, feel free to reach out: 📧 Email: [kammebramhananda5908@gmail.com]
+🌐 GitHub: [https://github.com/kammebramhananda]
 
 🎉 Happy Coding! 🚀
 
